@@ -1,6 +1,5 @@
-package boot;
+package boot.application;
 
-import boot.hello.Application;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 

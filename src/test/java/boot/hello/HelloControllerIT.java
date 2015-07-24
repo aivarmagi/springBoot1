@@ -5,6 +5,7 @@ import static org.junit.Assert.assertThat;
 
 import java.net.URL;
 
+import boot.application.Application;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
